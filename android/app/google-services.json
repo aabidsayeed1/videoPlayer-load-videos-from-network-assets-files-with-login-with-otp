@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "203404544799",
+    "project_id": "videoplayer-a9a03",
+    "storage_bucket": "videoplayer-a9a03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203404544799:android:d1b23c16ba739bdaa2be2a",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203404544799-9vlo7pgb7l47ft4gfqefcb1hj5tk8r1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicplayer",
+            "certificate_hash": "73daa245a4e289fbf14f42c1dead0055dc3ff7d4"
+          }
+        },
+        {
+          "client_id": "203404544799-e1f0m7nvl6tg3aardpu8hnihpu3bf2vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYu7csOcwog2LKs0RALPDo9GXYXPoi0qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203404544799-e1f0m7nvl6tg3aardpu8hnihpu3bf2vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
